@@ -1,0 +1,407 @@
+@media (min-width: 325px) {
+    .color{
+        background-color: #0B5D9C;
+        margin-top: 10%;
+        height: 105rem;
+    }
+    .best{
+        color: white;
+        padding-left: 2%;
+        padding-top: 5%;
+    }
+    .power{
+        display: block;
+        text-align: center;
+    }
+    .pics1{
+        background-color: white;
+        border-radius: 8px;
+        width: 290px;
+        height: 455px;
+        padding-top: 3%;
+        padding-left: 2%;
+    }
+    .pics2{
+        background-color: white;
+        border-radius: 8px;
+        width: 290px;
+        height: 365px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-top: 10px;
+    }
+    .pics3{
+        background-color: white;
+        border-radius: 8px;
+        width: 290px;
+        height: 455px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-top: 10px;
+    }
+}
+@media (min-width: 375px) { 
+    .color{
+        background-color: #0B5D9C;
+        margin-top: 10%;
+        height: 105rem;
+    }
+    .best{
+        color: white;
+        padding-left: 2%;
+        padding-top: 5%;
+    }
+    .power{
+        display: block;
+    }
+    .pics1{
+        background-color: white;
+        border-radius: 8px;
+        width: 250px;
+        height: 455px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-left: 20%;
+    }
+    .pics2{
+        background-color: white;
+        border-radius: 8px;
+        width: 250px;
+        height: 365px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-left: 20%;
+        margin-top: 10px;
+    }
+    .pics3{
+        background-color: white;
+        border-radius: 8px;
+        width: 250px;
+        height: 455px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-left: 20%;
+        margin-top: 10px;
+    }
+}
+@media (min-width: 420px) { 
+    .color{
+        background-color: #0B5D9C;
+        margin-top: 10%;
+        height: 105rem;
+    }
+    .best{
+        color: white;
+        padding-left: 2%;
+        padding-top: 5%;
+    }
+    .power{
+        display: block;
+    }
+    .pics1{
+        background-color: white;
+        border-radius: 8px;
+        width: 290px;
+        height: 455px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-left: 20%;
+    }
+    .pics2{
+        background-color: white;
+        border-radius: 8px;
+        width: 290px;
+        height: 365px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-left: 20%;
+        margin-top: 10px;
+    }
+    .pics3{
+        background-color: white;
+        border-radius: 8px;
+        width: 290px;
+        height: 455px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-left: 20%;
+        margin-top: 10px;
+    }
+}
+@media (min-width: 475px) { 
+    .color{
+        background-color: #0B5D9C;
+        margin-top: 10%;
+        height: 105rem;
+    }
+    .best{
+        color: white;
+        padding-left: 2%;
+        padding-top: 5%;
+    }
+    .power{
+        display: block;
+    }
+    .pics1{
+        background-color: white;
+        border-radius: 8px;
+        width: 290px;
+        height: 455px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-left: 20%;
+    }
+    .pics2{
+        background-color: white;
+        border-radius: 8px;
+        width: 290px;
+        height: 365px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-left: 20%;
+        margin-top: 10px;
+    }
+    .pics3{
+        background-color: white;
+        border-radius: 8px;
+        width: 290px;
+        height: 455px;
+        padding-top: 3%;
+        padding-left: 2%;
+        margin-left: 20%;
+        margin-top: 10px;
+    }
+ }
+@media (min-width: 576px) { 
+    .color{
+        background-color: #0B5D9C;
+        margin-top: 10%;
+        height: 100rem;
+    }
+    .best{
+        color: white;
+        padding-left: 2%;
+        padding-top: 5%;
+    }
+    .power{
+        display: block;
+    }
+    .pics1{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: center;
+        margin-left: 15%;
+    }
+    .pics2{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 365px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: center;
+        margin-left: 15%;
+        margin-top: 10px;
+    }
+    .pics3{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: center;
+        margin-left: 15%;
+        margin-top: 10px;
+    }
+ }
+
+
+@media (min-width: 768px) { 
+    .color{
+        background-color: #0B5D9C;
+        margin-top: 10%;
+        height: 100rem;
+    }
+    .best{
+        color: white;
+        padding-left: 2%;
+        padding-top: 5%;
+    }
+    .pics1{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: center;
+        margin-left: 15%;
+    }
+    .pics2{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 365px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: center;
+        margin-left: 15%;
+        margin-top: 10px;
+    }
+    .pics3{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: center;
+        margin-left: 15%;
+        margin-top: 10px;
+    }
+ }
+
+
+@media (min-width: 900px) { 
+    .color{
+        background-color: #0B5D9C;
+        margin-top: 10%;
+        height: 900px;
+    }
+    .best{
+        color: white;
+        padding-left: 2%;
+        padding-top: 5%;
+    }
+    .power{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .pics1{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: left;
+        margin-left: 1%;
+
+    }
+    .pics2{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 365px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: left;
+        margin-left: 1%;
+    }
+    .pics3{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: start;
+        margin-left: 1%;
+    }
+ }
+
+
+@media (min-width: 1200px) { 
+    .color{
+        background-color: #0B5D9C;
+        margin-top: 10%;
+        height: 900px;
+    }
+    .best{
+        color: white;
+        padding-left: 2%;
+        padding-top: 5%;
+    }
+    .power{
+        display: flex;
+        justify-content: space-around;
+    }
+    .pics1{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: start;
+    }
+    .pics2{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 365px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: start;
+    }
+    .pics3{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: start;
+    }
+ }
+
+
+@media (min-width: 1400px) { 
+    .color{
+        background-color: #0B5D9C;
+        margin-top: 10%;
+        height: 900px;
+    }
+    .best{
+        color: white;
+        padding-left: 2%;
+        padding-top: 5%;
+    }
+    .power{
+        display: flex;
+        justify-content: space-around;
+    }
+    .pics1{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: start;
+    }
+    .pics2{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 365px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: start;
+    }
+    .pics3{
+        background-color: white;
+        border-radius: 8px;
+        width: 380px;
+        height: 355px;
+        padding-top: 3%;
+        padding-left: 2%;
+        text-align: start;
+    }
+ }

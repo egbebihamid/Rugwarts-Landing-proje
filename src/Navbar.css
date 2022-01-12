@@ -1,0 +1,627 @@
+@media (min-width: 320px){ 
+  .overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logo img{
+    width: 80%;
+    height: 80%;
+    margin-top: 20%;
+    margin-left: 10%;
+  }
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 2%;
+    font-size: 50%;
+    padding-right: 20px;
+  }
+  .flex a{
+    display: none;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .overall button{
+    background-color: #0B5D9C;
+    border-style: none;
+    float: right;
+    color: white;
+    margin-right: 30px;
+    height: 30px;
+    width: 90px;
+    margin-top: 35px;
+    border-radius: 10px;
+  }
+  .log{
+    text-decoration: none;
+    color: #000;
+    margin-top: 10%;
+    padding-right: 7px;
+  }
+  .new{
+    display: block;
+    justify-content: space-around;
+    position: relative;
+    top: 2rem;
+  }
+  .things{
+    margin-left: 10%;
+  }
+  .new img{
+    width: 300px;
+    border-radius: 10%;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 83%;
+    height: 5%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 10%;
+    width: 80%;
+  }
+ }
+@media (min-width: 375px){ 
+  .overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logo img{
+    width: 80%;
+    height: 80%;
+    margin-top: 20%;
+    margin-left: 10%;
+  }
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 2%;
+    font-size: 50%;
+    padding-right: 20px;
+  }
+  .flex a{
+    display: none;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .overall button{
+    background-color: #0B5D9C;
+    border-style: none;
+    float: right;
+    color: white;
+    margin-right: 60px;
+    height: 30px;
+    width: 90px;
+    margin-top: 35px;
+    border-radius: 10px;
+  }
+  .log{
+    text-decoration: none;
+    color: #000;
+    margin-top: 10%;
+    padding-right: 30px;
+  }
+  .new{
+    display: block;
+    justify-content: space-around;
+    position: relative;
+    top: 2rem;
+  }
+  .things{
+    margin-left: 10%;
+  }
+  .new img{
+    width: 300px;
+    border-radius: 10%;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 83%;
+    height: 5%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 10%;
+    width: 80%;
+  }
+ }
+@media (min-width: 420px) { 
+  .overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logo img{
+    width: 80%;
+    height: 80%;
+    margin-top: 20%;
+    margin-left: 10%;
+  }
+  .flex{
+    display: block;
+    justify-content: space-around;
+    width: 10%;
+    margin-top: 2%;
+    font-size: 50%;
+    padding-right: 20px;
+  }
+  .flex a{
+    display: none;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .overall button{
+    background-color: #0B5D9C;
+    border-style: none;
+    float: right;
+    color: white;
+    margin-right: 103px;
+    height: 30px;
+    width: 90px;
+    margin-top: 35px;
+    border-radius: 10px;
+  }
+  .log{
+    text-decoration: none;
+    color: #000;
+    margin-top: 10%;
+    padding-right: 60px;
+  }
+  .new{
+    display: block;
+    justify-content: space-around;
+    position: relative;
+    top: 2rem;
+  }
+  .things{
+    margin-left: 10%;
+  }
+  .new img{
+    width: 300px;
+    border-radius: 10%;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 53%;
+    height: 5%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 10%;
+    width: 50%;
+  }
+ }
+@media (min-width: 476px) {
+  .overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logo img{
+    width: 80%;
+    height: 80%;
+    margin-top: 20%;
+    margin-left: 10%;
+  }
+  .flex{
+    display: block;
+    justify-content: space-around;
+    width: 20%;
+    margin-top: 2%;
+    font-size: 50%;
+    padding-right: 10px;
+  }
+  .flex a{
+    display: none;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .overall button{
+    background-color: #0B5D9C;
+    border-style: none;
+    float: right;
+    color: white;
+    margin-right: 80px;
+    height: 30px;
+    width: 90px;
+    margin-top: 95px;
+    border-radius: 10px;
+  }
+  .log{
+    text-decoration: none;
+    color: #000;
+    margin-top: 20%;
+    padding-right: 30px;
+  }
+  .new{
+    display: block;
+    justify-content: space-around;
+    position: relative;
+    top: 2rem;
+  }
+  .things{
+    margin-left: 10%;
+  }
+  .new img{
+    width: 300px;
+    border-radius: 10%;
+    margin-top: 20px;
+    margin-left: 30px;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 53%;
+    height: 5%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 10%;
+    width: 50%;
+  }
+}
+@media (min-width: 576px) { 
+  .overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logo img{
+    width: 80%;
+    height: 80%;
+  }
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 2%;
+    font-size: 50%;
+    padding-right: 20px;
+  }
+  .flex a{
+    display: flex;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .overall button{
+    background-color: #0B5D9C;
+    border-style: none;
+    float: right;
+    color: white;
+    margin-right: 20px;
+    height: 50px;
+    width: 110px;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+  .log{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    margin-top: 3%;
+    padding-right: 5px;
+  }
+  .new{
+    display: block;
+    justify-content: space-around;
+    position: relative;
+    top: 2rem;
+  }
+  .things{
+    margin-left: 10%;
+  }
+  .new img{
+    width: 500px;
+    border-radius: 10%;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 20%;
+    height: 7%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 10%;
+  }
+}
+
+
+@media (min-width: 768px) { 
+  .overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logo img{
+    width: 80%;
+    height: 80%;
+  }
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 2%;
+    font-size: 70%;
+  }
+  .flex a{
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .overall button{
+    background-color: #0B5D9C;
+    border-style: none;
+    float: right;
+    color: white;
+    margin-right: 20px;
+    height: 50px;
+    width: 110px;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+  .log{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    margin-top: 3%;
+    left: 10px;
+  }
+  .new{
+    display: block;
+    justify-content: space-around;
+    position: relative;
+    top: 2rem;
+  }
+  .things{
+    margin-left: 10%;
+  }
+  .new img{
+    width: 500px;
+    border-radius: 10%;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 20%;
+    height: 7%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 10%;
+  }
+ }
+
+
+@media (min-width: 992px) { 
+  .overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logo img{
+    width: 80%;
+    height: 80%;
+  }
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 2%;
+  }
+  .flex a{
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .overall button{
+    background-color: #0B5D9C;
+    border-style: none;
+    color: white;
+    float: right;
+    margin-right: 60px;
+    height: 50px;
+    width: 110px;
+    margin-top: 30px;
+    border-radius: 10px;
+  }
+  .log{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    margin-top: 3%;
+  }
+  .new{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 5rem;
+  }
+  .new img{
+    width: 500px;
+    border-radius: 10%;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 30%;
+    height: 7%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 6%;
+    width: 60%;
+  }
+}
+
+
+@media (min-width: 1200px) { 
+  .overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logo img{
+    width: 80%;
+    height: 80%;
+  }
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 2%;
+  }
+  .flex a{
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .overall button{
+    background-color: #0B5D9C;
+    border-style: none;
+    color: white;
+    float: right;
+    margin-right: 60px;
+    height: 50px;
+    width: 110px;
+    margin-top: 30px;
+    border-radius: 10px;
+  }
+  .log{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    margin-top: 3%;
+  }
+  .new{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 5rem;
+  }
+  .new img{
+    width: 500px;
+    border-radius: 10%;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 30%;
+    height: 7%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 6%;
+  }
+ }
+
+
+@media (min-width: 1400px) { 
+  .overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logo img{
+    width: 80%;
+    height: 80%;
+  }
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 2%;
+  }
+  .flex a{
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  .overall button{
+    background-color: #0B5D9C;
+    border-style: none;
+    color: white;
+    float: right;
+    margin-right: 60px;
+    height: 50px;
+    width: 110px;
+    margin-top: 30px;
+    border-radius: 10px;
+  }
+  .log{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    margin-top: 3%;
+  }
+  .new{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 5rem;
+  }
+  .new img{
+    width: 500px;
+    border-radius: 10%;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 30%;
+    height: 7%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 6%;
+  }
+ }

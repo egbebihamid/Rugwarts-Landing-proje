@@ -1,0 +1,926 @@
+@media (min-width: 320px) { 
+    .text{
+        text-align: center;
+        background-color: #0B5D9C;
+        height: 70rem;
+    }
+    .div1{
+        top: 138px;
+        width: 86%;
+        height: 68%;
+        background: #FFFFFF;
+        border-radius: 1%;
+        margin-left: 6%;
+    }
+    .div1 h3{
+        padding-top: 20px;
+    }
+    .name{
+        display: block;
+    }
+    .div1 a{
+        text-decoration: none;
+    } 
+    a:hover{
+        text-decoration: underline;
+    }
+    .mail{
+        margin-top: 10%;
+    }
+    .mail p{
+        margin-right: 40%;
+    }
+    .mail input{
+        top: 302px;
+        width: 230px;
+        height: 50px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DEDEDF;
+        border-radius: 4px;
+    }
+    .box{
+        margin-right: 5%;
+    }
+    .box a{
+        margin-left: 3%;
+        font-size: small;
+    }
+    .btn{
+        width: 230px;
+        height: 50px;
+        background: #0B5D9C 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        margin-top: 5%;
+        margin-left: 2rem;
+        color: white;
+    }
+    .pop{
+        display: none;
+        border-left: solid 1px;
+        height: 9rem;
+        position: relative;
+        left: 10px;
+        color: #4D4D4D;
+    }
+    .line{
+        text-align: center;
+    }
+    .ok{
+        display: none;
+        border-left: solid 1px;
+        height: 9rem;
+        margin-top: 40%;
+        position: relative;
+        right: 10px;
+        color: #4D4D4D;
+    }
+    .pup{
+        display: inline-block;
+    }
+    .sop{
+        background-color: white;
+        position: relative;
+        margin-right: 30px;
+    }
+    .sop img{
+        position: relative;
+        margin-top: 10px;
+    }
+    .pap{
+        margin-right: 30px;
+        margin-top: 20%;
+    }
+    .pap img{
+        position: relative;
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 375px) { 
+    .text{
+        text-align: center;
+        background-color: #0B5D9C;
+        height: 70rem;
+    }
+    .div1{
+        top: 138px;
+        width: 86%;
+        height: 68%;
+        background: #FFFFFF;
+        border-radius: 1%;
+        margin-left: 6%;
+    }
+    .div1 h3{
+        padding-top: 20px;
+    }
+    .name{
+        display: block;
+    }
+    .div1 a{
+        text-decoration: none;
+    } 
+    a:hover{
+        text-decoration: underline;
+    }
+    .mail{
+        margin-top: 10%;
+    }
+    .mail p{
+        margin-right: 40%;
+    }
+    .mail input{
+        top: 302px;
+        width: 230px;
+        height: 50px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DEDEDF;
+        border-radius: 4px;
+    }
+    .box{
+        margin-right: 5%;
+    }
+    .box a{
+        margin-left: 3%;
+        font-size: small;
+    }
+    .btn{
+        width: 230px;
+        height: 50px;
+        background: #0B5D9C 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        margin-top: 5%;
+        margin-left: 2rem;
+        color: white;
+    }
+    .pop{
+        display: none;
+        border-left: solid 1px;
+        height: 9rem;
+        position: relative;
+        left: 10px;
+        color: #4D4D4D;
+    }
+    .line{
+        text-align: center;
+    }
+    .ok{
+        display: none;
+        border-left: solid 1px;
+        height: 9rem;
+        margin-top: 40%;
+        position: relative;
+        right: 10px;
+        color: #4D4D4D;
+    }
+    .pup{
+        display: inline-block;
+    }
+    .sop{
+        background-color: white;
+        position: relative;
+        margin-right: 30px;
+    }
+    .sop img{
+        position: relative;
+        margin-top: 10px;
+    }
+    .pap{
+        margin-right: 30px;
+        margin-top: 20%;
+    }
+    .pap img{
+        position: relative;
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 420px) { 
+    .text{
+        text-align: center;
+        background-color: #0B5D9C;
+        height: 70rem;
+    }
+    .div1{
+        top: 138px;
+        width: 86%;
+        height: 68%;
+        background: #FFFFFF;
+        border-radius: 1%;
+        margin-left: 6%;
+    }
+    .div1 h3{
+        padding-top: 20px;
+    }
+    .name{
+        display: block;
+    }
+    .div1 a{
+        text-decoration: none;
+    } 
+    a:hover{
+        text-decoration: underline;
+    }
+    .mail{
+        margin-top: 10%;
+    }
+    .mail p{
+        margin-right: 40%;
+    }
+    .mail input{
+        top: 302px;
+        width: 230px;
+        height: 50px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DEDEDF;
+        border-radius: 4px;
+    }
+    .box{
+        margin-right: 5%;
+    }
+    .box a{
+        margin-left: 3%;
+        font-size: small;
+    }
+    .btn{
+        width: 230px;
+        height: 50px;
+        background: #0B5D9C 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        margin-top: 5%;
+        margin-left: 2rem;
+        color: white;
+    }
+    .pop{
+        display: none;
+        border-left: solid 1px;
+        height: 9rem;
+        position: relative;
+        left: 10px;
+        color: #4D4D4D;
+    }
+    .line{
+        text-align: center;
+    }
+    .ok{
+        display: none;
+        border-left: solid 1px;
+        height: 9rem;
+        margin-top: 40%;
+        position: relative;
+        right: 10px;
+        color: #4D4D4D;
+    }
+    .pup{
+        display: inline-block;
+    }
+    .sop{
+        background-color: white;
+        position: relative;
+        margin-right: 30px;
+    }
+    .sop img{
+        position: relative;
+        margin-top: 10px;
+    }
+    .pap{
+        margin-right: 30px;
+        margin-top: 20%;
+    }
+    .pap img{
+        position: relative;
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 457px) { 
+    .text{
+        text-align: center;
+        background-color: #0B5D9C;
+        height: 70rem;
+    }
+    .div1{
+        top: 138px;
+        width: 86%;
+        height: 68%;
+        background: #FFFFFF;
+        border-radius: 1%;
+        margin-left: 6%;
+    }
+    .div1 h3{
+        padding-top: 20px;
+    }
+    .name{
+        display: block;
+    }
+    .div1 a{
+        text-decoration: none;
+    } 
+    a:hover{
+        text-decoration: underline;
+    }
+    .mail{
+        margin-top: 10%;
+    }
+    .mail p{
+        margin-right: 40%;
+    }
+    .mail input{
+        top: 302px;
+        width: 230px;
+        height: 50px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DEDEDF;
+        border-radius: 4px;
+    }
+    .box{
+        margin-right: 5%;
+    }
+    .box a{
+        margin-left: 3%;
+        font-size: small;
+    }
+    .btn{
+        width: 230px;
+        height: 50px;
+        background: #0B5D9C 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        margin-top: 5%;
+        margin-left: 2rem;
+        color: white;
+    }
+    .pop{
+        display: none;
+        border-left: solid 1px;
+        height: 9rem;
+        position: relative;
+        left: 10px;
+        color: #4D4D4D;
+    }
+    .line{
+        text-align: center;
+    }
+    .ok{
+        display: none;
+        border-left: solid 1px;
+        height: 9rem;
+        margin-top: 40%;
+        position: relative;
+        right: 10px;
+        color: #4D4D4D;
+    }
+    .pup{
+        display: inline-block;
+    }
+    .sop{
+        background-color: white;
+        position: relative;
+        margin-right: 30px;
+    }
+    .sop img{
+        position: relative;
+        margin-top: 10px;
+    }
+    .pap{
+        margin-right: 30px;
+        margin-top: 20%;
+    }
+    .pap img{
+        position: relative;
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 576px) { 
+    .text{
+        text-align: center;
+        background-color: #0B5D9C;
+        height: 50rem;
+    }
+    .div1{
+        top: 138px;
+        width: 76%;
+        height: 58%;
+        background: #FFFFFF;
+        border-radius: 1%;
+        margin-left: 10%;
+    }
+    .div1 h3{
+        padding-top: 20px;
+    }
+    .name{
+        display: flex;
+    }
+    .div1 a{
+        text-decoration: none;
+    } 
+    a:hover{
+        text-decoration: underline;
+    }
+    .mail{
+        margin-right: 5%;
+        margin-top: 10%;
+    }
+    .mail p{
+        margin-right: 40%;
+    }
+    .mail input{
+        top: 302px;
+        width: 150px;
+        height: 50px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DEDEDF;
+        border-radius: 4px;
+    }
+    .box{
+        margin-right: 5%;
+    }
+    .box a{
+        margin-left: 3%;
+        font-size: small;
+    }
+    .btn{
+        width: 150px;
+        height: 50px;
+        background: #0B5D9C 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        margin-top: 5%;
+        margin-left: 2rem;
+        color: white;
+    }
+    .pop{
+        display: flex;
+        border-left: solid 1px;
+        height: 9rem;
+        position: relative;
+        left: 10px;
+        color: #4D4D4D;
+    }
+    .line{
+        margin-top: 150px;
+        left: 710px;
+        width: 20px;
+        height: 19px;
+        text-align: left;
+        font: normal normal normal 14px/24px Open Sans;
+        letter-spacing: 0px;
+        color: #4D4D4D;
+    }
+    .ok{
+        display: flex;
+        border-left: solid 1px;
+        height: 9rem;
+        margin-top: 40%;
+        position: relative;
+        right: 10px;
+        color: #4D4D4D;
+    }
+    .pup{
+        display: inline-block;
+    }
+    .sop{
+        position: relative;
+        margin-right: 50px;
+        margin-top: 30%;
+    }
+    .sop img{
+        position: relative;
+        margin-top: 10px;
+    }
+    .pap{
+        margin-right: 50px;
+        margin-top: 20%;
+    }
+    .pap img{
+        position: relative;
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 768px) { 
+    .text{
+        text-align: center;
+        background-color: #0B5D9C;
+        height: 50rem;
+    }
+    .div1{
+        top: 138px;
+        width: 76%;
+        height: 58%;
+        background: #FFFFFF;
+        border-radius: 1%;
+        margin-left: 10%;
+    }
+    .div1 h3{
+        padding-top: 20px;
+    }
+    .name{
+        display: flex;
+    }
+    .div1 a{
+        text-decoration: none;
+    } 
+    a:hover{
+        text-decoration: underline;
+    }
+    .mail{
+        margin-right: 5%;
+        margin-top: 10%;
+    }
+    .mail p{
+        margin-right: 30%;
+    }
+    .mail input{
+        top: 302px;
+        width: 250px;
+        height: 50px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DEDEDF;
+        border-radius: 4px;
+        margin-left: 10px;
+    }
+    .box{
+        margin-right: 5%;
+    }
+    .box a{
+        margin-left: 3%;
+        font-size: small;
+    }
+    .btn{
+        width: 150px;
+        height: 50px;
+        background: #0B5D9C 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        margin-top: 5%;
+        margin-left: 2rem;
+        color: white;
+    }
+    .pop{
+        display: flex;
+        border-left: solid 1px;
+        height: 9rem;
+        position: relative;
+        left: 10px;
+        color: #4D4D4D;
+    }
+    .line{
+        margin-top: 150px;
+        left: 710px;
+        width: 20px;
+        height: 19px;
+        text-align: left;
+        font: normal normal normal 14px/24px Open Sans;
+        letter-spacing: 0px;
+        color: #4D4D4D;
+    }
+    .ok{
+        display: flex;
+        border-left: solid 1px;
+        height: 9rem;
+        margin-top: 30%;
+        position: relative;
+        right: 10px;
+        color: #4D4D4D;
+    }
+    .pup{
+        display: inline-block;
+    }
+    .sop{
+        position: relative;
+        margin-right: 50px;
+        margin-top: 30%;
+    }
+    .sop img{
+        position: relative;
+        margin-top: 10px;
+    }
+    .pap{
+        margin-right: 50px;
+        margin-top: 20%;
+    }
+    .pap img{
+        position: relative;
+        margin-top: 10px;
+    }
+ }
+
+
+@media (min-width: 992px) { 
+    .text{
+        text-align: center;
+        background-color: #0B5D9C;
+        height: 80rem;
+    }
+    .div1{
+        top: 138px;
+        width: 70%;
+        height: 42%;
+        background: #FFFFFF;
+        border-radius: 1%;
+        margin-left: 20%;
+    }
+    .div1 h3{
+        padding-top: 20px;
+    }
+    .name{
+        display: flex;
+    }
+    .div1 a{
+        text-decoration: none;
+    } 
+    a:hover{
+        text-decoration: underline;
+    }
+    .mail{
+        margin-right: 5%;
+        margin-top: 10%;
+    }
+    .mail p{
+        margin-right: 30%;
+    }
+    .mail input{
+        top: 302px;
+        width: 350px;
+        height: 50px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DEDEDF;
+        border-radius: 4px;
+        margin-left: 10px;
+    }
+    .box{
+        margin-right: 12%;
+    }
+    .box a{
+        margin-left: 20%;
+    }
+    .btn{
+        width: 350px;
+        height: 50px;
+        background: #0B5D9C 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        margin-top: 5%;
+        margin-left: 4rem;
+        color: white;
+    }
+    .pop{
+        display: flex;
+        border-left: solid 1px;
+        height: 170px;
+        position: relative;
+        left: 10px;
+        color: #4D4D4D;
+    }
+    .line{
+        margin-top: 170px;
+        left: 710px;
+        width: 20px;
+        height: 19px;
+        text-align: left;
+        font: normal normal normal 14px/24px Open Sans;
+        letter-spacing: 0px;
+        color: #4D4D4D;
+    }
+    .ok{
+        display: flex;
+        border-left: solid 1px;
+        height: 240px;
+        margin-top: 20%;
+        position: relative;
+        right: 10px;
+        color: #4D4D4D;
+    }
+    .pup{
+        display: inline-block;
+    }
+    .sop{
+        position: relative;
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+    .sop img{
+        position: relative;
+        margin-top: 10px;
+    }
+    .pap{
+        border-radius: 4px;
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+    .pap img{
+        position: relative;
+        margin-top: 10px;
+    }
+ }
+
+
+@media (min-width: 1200px) { 
+    .text{
+        text-align: center;
+        background-color: #0B5D9C;
+        height: 80rem;
+    }
+    .div1{
+        top: 138px;
+        width: 70%;
+        height: 42%;
+        background: #FFFFFF;
+        border-radius: 1%;
+        margin-left: 20%;
+    }
+    .div1 h3{
+        padding-top: 20px;
+    }
+    .name{
+        display: flex;
+    }
+    .div1 a{
+        text-decoration: none;
+    } 
+    a:hover{
+        text-decoration: underline;
+    }
+    .mail{
+        margin-right: 5%;
+        margin-top: 10%;
+    }
+    .mail p{
+        margin-right: 30%;
+    }
+    .mail input{
+        top: 302px;
+        width: 350px;
+        height: 50px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DEDEDF;
+        border-radius: 4px;
+        margin-left: 10px;
+    }
+    .box{
+        margin-right: 12%;
+    }
+    .box a{
+        margin-left: 20%;
+    }
+    .btn{
+        width: 350px;
+        height: 50px;
+        background: #0B5D9C 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        margin-top: 5%;
+        margin-left: 4rem;
+        color: white;
+    }
+    .pop{
+        display: flex;
+        border-left: solid 1px;
+        height: 170px;
+        position: relative;
+        left: 10px;
+        color: #4D4D4D;
+    }
+    .line{
+        margin-top: 170px;
+        left: 710px;
+        width: 20px;
+        height: 19px;
+        text-align: left;
+        font: normal normal normal 14px/24px Open Sans;
+        letter-spacing: 0px;
+        color: #4D4D4D;
+    }
+    .ok{
+        display: flex;
+        border-left: solid 1px;
+        height: 240px;
+        margin-top: 20%;
+        position: relative;
+        right: 10px;
+        color: #4D4D4D;
+    }
+    .pup{
+        display: inline-block;
+    }
+    .sop{
+        position: relative;
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+    .sop img{
+        position: relative;
+        margin-top: 10px;
+    }
+    .pap{
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+    .pap img{
+        position: relative;
+        margin-top: 10px;
+    }
+ }
+
+
+@media (min-width: 1400px) { 
+    .text{
+        text-align: center;
+        background-color: #0B5D9C;
+        height: 80rem;
+    }
+    .div1{
+        top: 138px;
+        width: 70%;
+        height: 42%;
+        background: #FFFFFF;
+        border-radius: 1%;
+        margin-left: 20%;
+    }
+    .div1 h3{
+        padding-top: 20px;
+    }
+    .name{
+        display: flex;
+    }
+    .div1 a{
+        text-decoration: none;
+    } 
+    a:hover{
+        text-decoration: underline;
+    }
+    .mail{
+        margin-right: 5%;
+        margin-top: 10%;
+    }
+    .mail p{
+        margin-right: 30%;
+    }
+    .mail input{
+        top: 302px;
+        width: 350px;
+        height: 50px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #DEDEDF;
+        border-radius: 4px;
+        margin-left: 10px;
+    }
+    .box{
+        margin-right: 12%;
+    }
+    .box a{
+        margin-left: 20%;
+    }
+    .btn{
+        width: 350px;
+        height: 50px;
+        background: #0B5D9C 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        margin-top: 5%;
+        margin-left: 4rem;
+        color: white;
+    }
+    .pop{
+        display: flex;
+        border-left: solid 1px;
+        height: 170px;
+        position: relative;
+        left: 10px;
+        color: #4D4D4D;
+    }
+    .line{
+        margin-top: 170px;
+        left: 710px;
+        width: 20px;
+        height: 19px;
+        text-align: left;
+        font: normal normal normal 14px/24px Open Sans;
+        letter-spacing: 0px;
+        color: #4D4D4D;
+    }
+    .ok{
+        display: flex;
+        border-left: solid 1px;
+        height: 240px;
+        margin-top: 20%;
+        position: relative;
+        right: 10px;
+        color: #4D4D4D;
+    }
+    .pup{
+        display: inline-block;
+    }
+    .sop{
+        position: relative;
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+    .sop img{
+        position: relative;
+        margin-top: 10px;
+    }
+    .pap{
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+    .pap img{
+        position: relative;
+        margin-top: 10px;
+    }
+ }

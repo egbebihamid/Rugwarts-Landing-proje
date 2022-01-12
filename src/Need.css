@@ -1,0 +1,125 @@
+@media (min-width: 320px) {
+    .run{
+        display: block;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .run img{
+        width: 90%;
+        height: 90%;
+        padding-top: 15%;
+        margin-right: 10%;
+    }
+}
+
+@media (min-width: 375px) {
+    .run{
+        display: block;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .run img{
+        width: 90%;
+        height: 90%;
+        padding-top: 15%;
+        margin-right: 10%;
+    }
+}
+
+@media (min-width: 420px) {
+    .run{
+        display: block;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .run img{
+        width: 90%;
+        height: 90%;
+        padding-top: 15%;
+        margin-right: 10%;
+    }
+}
+
+@media (min-width: 475px) {
+    .run{
+        display: block;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .run img{
+        width: 90%;
+        height: 90%;
+        padding-top: 15%;
+        margin-right: 10%;
+    }
+}
+
+@media (min-width: 576px) { 
+    .run{
+        display: flex;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .run img{
+        width: 40%;
+        height: 40%;
+        padding-top: 15%;
+        margin-right: 10%;
+    }
+ }
+
+@media (min-width: 768px) { 
+    .run{
+        display: flex;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .run img{
+        width: 40%;
+        height: 40%;
+        padding-top: 15%;
+        margin-right: 10%;
+    }
+ }
+
+@media (min-width: 900px) { 
+    .run{
+        display: flex;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .run img{
+        width: 40%;
+        height: 40%;
+        padding-top: 15%;
+        margin-right: 10%;
+    }
+ }
+
+@media (min-width: 1200px) { 
+    .run{
+        display: flex;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .run img{
+        width: 40%;
+        height: 40%;
+        padding-top: 15%;
+        margin-right: 10%;
+    }
+ }
+
+@media (min-width: 1400px) { 
+    .run{
+        display: flex;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .run img{
+        width: 40%;
+        height: 40%;
+        padding-top: 15%;
+        margin-right: 10%;
+    }
+ }
